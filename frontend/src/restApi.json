@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "At Anna Poorna Bhavan, we prioritize fresh, locally-sourced ingredients to deliver exceptional taste and nutrition in every bite."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "EXQUISITE FLAVORS",
+          "description": "Our chefs blend traditional spices and innovative techniques to craft unforgettable dishes bursting with flavor."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "Enjoy your favorite meals delivered hot and fresh, right to your doorstep, with our reliable and speedy service."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "/idli.png.jpg",
+          "title": "Idli with Sambar & Chutney",
+          "category": "Breakfast"
+        },
+        {
+          "id": 2,
+          "image": "/dosa.png.webp",
+          "title": "Crispy Masala Dosa",
+          "category": "Breakfast"
+        },
+        {
+          "id": 3,
+          "image": "/meals.png.jpg",
+          "title": "Traditional South Indian Meals",
+          "category": "Lunch"
+        },
+        {
+          "id": 4,
+          "image": "/chettinad.png.jpg",
+          "title": "Chettinad Chicken Curry",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "/biryani.png.jpg",
+          "title": "Hyderabadi Veg Biryani",
+          "category": "Dinner"
+        },
+        {
+          "id": 6,
+          "image": "/parotta.png.webp",
+          "title": "Parotta with Salna",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "/coffee.png.webp",
+          "title": "Filter Coffee",
+          "category": "Beverage"
+        },
+        {
+          "id": 8,
+          "image": "/pongal.png.jpg",
+          "title": "Sweet Pongal",
+          "category": "Dessert"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "/chef1.png.jpg",
+          "name": "Chef Arjun Nair",
+          "designation": "Founder & Head Chef – Kerala Cuisine"
+        },
+        {
+          "id": 2,
+          "image": "/chef2.png.jpg",
+          "name": "Chef Meera Subramanian",
+          "designation": "Tiffin Specialist – Tamil Nadu"
+        },
+        {
+          "id": 3,
+          "image": "/chef3.png.jpg",
+          "name": "Chef Rahim Hussain",
+          "designation": "Biryani & Grill Expert – Hyderabad"
+        },
+        {
+          "id": 4,
+          "image": "/chef4.png.jpg",
+          "name": "Chef Kavya Rao",
+          "designation": "Pastry & South Indian Desserts"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "Anna Poorna Bhavan offers an amazing dining experience! Delicious food, cozy ambiance, and friendly staff — highly recommend!",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "Outstanding flavors and impeccable service. The dishes are always fresh and full of character. A favorite spot for sure.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "A culinary gem! The chef’s passion shines through every dish. Great atmosphere and attention to detail.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chefs in Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Unique Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
